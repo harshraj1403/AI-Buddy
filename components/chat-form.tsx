@@ -7,7 +7,7 @@ import {Button} from "@/components/ui/button"
 import { SendHorizonal } from "lucide-react";
 
 interface ChatFormProps {
-    input:String;
+    input:string;
     handleInputChange: (e:ChangeEvent<HTMLInputElement>| ChangeEvent<HTMLTextAreaElement>)=>void;
     onSubmit:(e:FormEvent<HTMLFormElement>, chatRequestOptions?:ChatRequestOptions| undefined) => void;
     isLoading:boolean;
