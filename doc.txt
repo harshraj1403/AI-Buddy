@@ -1,0 +1,28 @@
+ npx shadcn-ui@latest init
+npm i -D prisma
+clerk for authenication 
+and shadcn for ui compenents
+npx prisma init
+Use PlanetScale .com for mysql setup 
+npx prisma generate
+npm prisma db push
+we use cloudnary.com
+we use npm i ai(vercel ai)
+> npm i @pinecone-database/pinecone databse for advance ai model
+ npm i @upstash/redis redis database for long term memory
+ npm i @upstash/ratelimit (no user can spam)
+ npm i langchain
+we use pincone databse
+upstash 
+we use open ai for api
+typescript , lama model, tailwind
+
+
+
+
+
+
+
+
+
+
